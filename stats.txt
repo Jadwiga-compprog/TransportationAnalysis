@@ -1,0 +1,227 @@
+Item: product_category_name_english occours 0 times.
+Item: health_beauty occours 2444 times.
+Item: computers_accessories occours 1639 times.
+Item: auto occours 1900 times.
+Item: bed_bath_table occours 3028 times.
+Item: furniture_decor occours 2657 times.
+Item: sports_leisure occours 2867 times.
+Item: perfumery occours 868 times.
+Item: housewares occours 2335 times.
+Item: telephony occours 1134 times.
+Item: watches_gifts occours 1329 times.
+Item: food_drink occours 104 times.
+Item: baby occours 918 times.
+Item: stationery occours 849 times.
+Item: tablets_printing_image occours 9 times.
+Item: toys occours 1411 times.
+Item: fixed_telephony occours 116 times.
+Item: garden_tools occours 753 times.
+Item: fashion_bags_accessories occours 849 times.
+Item: small_appliances occours 231 times.
+Item: consoles_games occours 317 times.
+Item: audio occours 58 times.
+Item: fashion_shoes occours 173 times.
+Item: cool_stuff occours 789 times.
+Item: luggage_accessories occours 349 times.
+Item: air_conditioning occours 124 times.
+Item: construction_tools_construction occours 400 times.
+Item: kitchen_dining_laundry_garden_furniture occours 94 times.
+Item: costruction_tools_garden occours 88 times.
+Item: fashion_male_clothing occours 95 times.
+Item: pet_shop occours 719 times.
+Item: office_furniture occours 309 times.
+Item: market_place occours 104 times.
+Item: electronics occours 517 times.
+Item: home_appliances occours 370 times.
+Item: party_supplies occours 26 times.
+Item: home_confort occours 111 times.
+Item: costruction_tools_tools occours 39 times.
+Item: agro_industry_and_commerce occours 74 times.
+Item: furniture_mattress_and_upholstery occours 10 times.
+Item: books_technical occours 123 times.
+Item: home_construction occours 225 times.
+Item: musical_instruments occours 289 times.
+Item: furniture_living_room occours 156 times.
+Item: construction_tools_lights occours 78 times.
+Item: industry_commerce_and_business occours 68 times.
+Item: food occours 82 times.
+Item: art occours 55 times.
+Item: furniture_bedroom occours 45 times.
+Item: books_general_interest occours 216 times.
+Item: construction_tools_safety occours 91 times.
+Item: fashion_underwear_beach occours 53 times.
+Item: fashion_sport occours 19 times.
+Item: signaling_and_security occours 93 times.
+Item: computers occours 30 times.
+Item: christmas_supplies occours 65 times.
+Item: fashio_female_clothing occours 27 times.
+Item: home_appliances_2 occours 90 times.
+Item: books_imported occours 31 times.
+Item: drinks occours 81 times.
+Item: cine_photo occours 28 times.
+Item: la_cuisine occours 10 times.
+Item: music occours 27 times.
+Item: home_comfort_2 occours 5 times.
+Item: small_appliances_home_oven_and_coffee occours 31 times.
+Item: cds_dvds_musicals occours 1 times.
+Item: dvds_blu_ray occours 48 times.
+Item: flowers occours 14 times.
+Item: arts_and_craftmanship occours 19 times.
+Item: diapers_and_hygiene occours 12 times.
+Item: fashion_childrens_clothes occours 5 times.
+Item: security_and_services occours 2 times.
+Item: pc_gaming occours 3 times.
+Item: portable_kitchen_and_food_preparers occours 10 times.
+STANDARD DEVIATION FOR: product_category_name_english : 0.0
+MEAN WEIGHT FOR: product_category_name_english : 0
+STANDARD DEVIATION FOR: health_beauty : 5.6093745312786
+MEAN WEIGHT FOR: health_beauty : 1.6243862520458
+STANDARD DEVIATION FOR: computers_accessories : 4.7431348864625
+MEAN WEIGHT FOR: computers_accessories : 1.9877974374618
+STANDARD DEVIATION FOR: auto : 5.5473771589406
+MEAN WEIGHT FOR: auto : 2.6368421052631
+STANDARD DEVIATION FOR: bed_bath_table : 5.5438095349957
+MEAN WEIGHT FOR: bed_bath_table : 1.3929986789961
+STANDARD DEVIATION FOR: furniture_decor : 5.8134516591211
+MEAN WEIGHT FOR: furniture_decor : 2.4008280015054
+STANDARD DEVIATION FOR: sports_leisure : 5.4937697367203
+MEAN WEIGHT FOR: sports_leisure : 2.1353331008022
+STANDARD DEVIATION FOR: perfumery : 4.4775082676524
+MEAN WEIGHT FOR: perfumery : 1.5783410138249
+STANDARD DEVIATION FOR: housewares : 5.7521860914602
+MEAN WEIGHT FOR: housewares : 2.2128479657388
+STANDARD DEVIATION FOR: telephony : 3.7429316272401
+MEAN WEIGHT FOR: telephony : 2.7592592592593
+STANDARD DEVIATION FOR: watches_gifts : 4.1763014256906
+MEAN WEIGHT FOR: watches_gifts : 2.2340105342363
+STANDARD DEVIATION FOR: food_drink : 4.7104336100449
+MEAN WEIGHT FOR: food_drink : 1.8942307692308
+STANDARD DEVIATION FOR: baby : 6.075511325835
+MEAN WEIGHT FOR: baby : 2.3518518518518
+STANDARD DEVIATION FOR: stationery : 5.3665089822954
+MEAN WEIGHT FOR: stationery : 2.698468786808
+STANDARD DEVIATION FOR: tablets_printing_image : 4.7073078816172
+MEAN WEIGHT FOR: tablets_printing_image : 3.0
+STANDARD DEVIATION FOR: toys : 5.5954706092576
+MEAN WEIGHT FOR: toys : 2.4585400425231
+STANDARD DEVIATION FOR: fixed_telephony : 4.5821236687164
+MEAN WEIGHT FOR: fixed_telephony : 2.9913793103448
+STANDARD DEVIATION FOR: garden_tools : 5.6880670154403
+MEAN WEIGHT FOR: garden_tools : 2.4236387782204
+STANDARD DEVIATION FOR: fashion_bags_accessories : 4.8129595057739
+MEAN WEIGHT FOR: fashion_bags_accessories : 2.9411071849235
+STANDARD DEVIATION FOR: small_appliances : 5.8089396544235
+MEAN WEIGHT FOR: small_appliances : 2.2034632034632
+STANDARD DEVIATION FOR: consoles_games : 5.1381552910974
+MEAN WEIGHT FOR: consoles_games : 2.2807570977918
+STANDARD DEVIATION FOR: audio : 4.3942143793857
+MEAN WEIGHT FOR: audio : 2.0344827586207
+STANDARD DEVIATION FOR: fashion_shoes : 4.6492341709195
+MEAN WEIGHT FOR: fashion_shoes : 5.121387283237
+STANDARD DEVIATION FOR: cool_stuff : 5.8267151292592
+MEAN WEIGHT FOR: cool_stuff : 2.2788339670469
+STANDARD DEVIATION FOR: luggage_accessories : 6.0024229399328
+MEAN WEIGHT FOR: luggage_accessories : 2.7220630372493
+STANDARD DEVIATION FOR: air_conditioning : 5.8218814146558
+MEAN WEIGHT FOR: air_conditioning : 2.1693548387097
+STANDARD DEVIATION FOR: construction_tools_construction : 5.504893487926
+MEAN WEIGHT FOR: construction_tools_construction : 2.365
+STANDARD DEVIATION FOR: kitchen_dining_laundry_garden_furniture : 6.6929668154701
+MEAN WEIGHT FOR: kitchen_dining_laundry_garden_furniture : 2.8191489361702
+STANDARD DEVIATION FOR: costruction_tools_garden : 5.2590179497445
+MEAN WEIGHT FOR: costruction_tools_garden : 2.2272727272727
+STANDARD DEVIATION FOR: fashion_male_clothing : 4.7230156448488
+MEAN WEIGHT FOR: fashion_male_clothing : 1.9263157894737
+STANDARD DEVIATION FOR: pet_shop : 5.7716516842389
+MEAN WEIGHT FOR: pet_shop : 2.57719054242
+STANDARD DEVIATION FOR: office_furniture : 6.6090790965209
+MEAN WEIGHT FOR: office_furniture : 1.3300970873786
+STANDARD DEVIATION FOR: market_place : 5.2392383669504
+MEAN WEIGHT FOR: market_place : 2.6346153846154
+STANDARD DEVIATION FOR: electronics : 5.177123398276
+MEAN WEIGHT FOR: electronics : 1.9477756286267
+STANDARD DEVIATION FOR: home_appliances : 5.4797104445843
+MEAN WEIGHT FOR: home_appliances : 1.6135135135135
+STANDARD DEVIATION FOR: party_supplies : 5.6705518468341
+MEAN WEIGHT FOR: party_supplies : 1.7692307692308
+STANDARD DEVIATION FOR: home_confort : 5.7126818556358
+MEAN WEIGHT FOR: home_confort : 2.0
+STANDARD DEVIATION FOR: costruction_tools_tools : 4.5870205450121
+MEAN WEIGHT FOR: costruction_tools_tools : 2.1282051282051
+STANDARD DEVIATION FOR: agro_industry_and_commerce : 6.2031962053993
+MEAN WEIGHT FOR: agro_industry_and_commerce : 2.3108108108108
+STANDARD DEVIATION FOR: furniture_mattress_and_upholstery : 6.8230449856926
+MEAN WEIGHT FOR: furniture_mattress_and_upholstery : 2.0
+STANDARD DEVIATION FOR: books_technical : 3.9999303402547
+MEAN WEIGHT FOR: books_technical : 1.0975609756098
+STANDARD DEVIATION FOR: home_construction : 5.6775446783323
+MEAN WEIGHT FOR: home_construction : 3.2666666666667
+STANDARD DEVIATION FOR: musical_instruments : 5.9111146867252
+MEAN WEIGHT FOR: musical_instruments : 2.8477508650519
+STANDARD DEVIATION FOR: furniture_living_room : 6.660635557072
+MEAN WEIGHT FOR: furniture_living_room : 1.9935897435897
+STANDARD DEVIATION FOR: construction_tools_lights : 5.628497370764
+MEAN WEIGHT FOR: construction_tools_lights : 2.1153846153846
+STANDARD DEVIATION FOR: industry_commerce_and_business : 6.1610113569173
+MEAN WEIGHT FOR: industry_commerce_and_business : 2.0441176470588
+STANDARD DEVIATION FOR: food : 4.6279308413503
+MEAN WEIGHT FOR: food : 1.9390243902439
+STANDARD DEVIATION FOR: art : 5.0420255562148
+MEAN WEIGHT FOR: art : 2.1636363636364
+STANDARD DEVIATION FOR: furniture_bedroom : 6.2774258170457
+MEAN WEIGHT FOR: furniture_bedroom : 2.0444444444444
+STANDARD DEVIATION FOR: books_general_interest : 4.1640250221564
+MEAN WEIGHT FOR: books_general_interest : 1.7916666666667
+STANDARD DEVIATION FOR: construction_tools_safety : 4.6514760408327
+MEAN WEIGHT FOR: construction_tools_safety : 2.2087912087912
+STANDARD DEVIATION FOR: fashion_underwear_beach : 4.3925051049269
+MEAN WEIGHT FOR: fashion_underwear_beach : 3.2641509433962
+STANDARD DEVIATION FOR: fashion_sport : 4.9799772746159
+MEAN WEIGHT FOR: fashion_sport : 2.3684210526316
+STANDARD DEVIATION FOR: signaling_and_security : 5.9335657761978
+MEAN WEIGHT FOR: signaling_and_security : 2.4838709677419
+STANDARD DEVIATION FOR: computers : 6.1444721465228
+MEAN WEIGHT FOR: computers : 2.7
+STANDARD DEVIATION FOR: christmas_supplies : 5.3165924487492
+MEAN WEIGHT FOR: christmas_supplies : 2.7076923076923
+STANDARD DEVIATION FOR: fashio_female_clothing : 4.9533925570371
+MEAN WEIGHT FOR: fashio_female_clothing : 2.5555555555556
+STANDARD DEVIATION FOR: home_appliances_2 : 6.4257530249757
+MEAN WEIGHT FOR: home_appliances_2 : 2.3333333333333
+STANDARD DEVIATION FOR: books_imported : 3.6056097368949
+MEAN WEIGHT FOR: books_imported : 1.4516129032258
+STANDARD DEVIATION FOR: drinks : 4.903560713032
+MEAN WEIGHT FOR: drinks : 1.6172839506173
+STANDARD DEVIATION FOR: cine_photo : 4.6444763928532
+MEAN WEIGHT FOR: cine_photo : 2.1428571428571
+STANDARD DEVIATION FOR: la_cuisine : 5.6470469914397
+MEAN WEIGHT FOR: la_cuisine : 1.1
+STANDARD DEVIATION FOR: music : 4.8200674805711
+MEAN WEIGHT FOR: music : 2.1111111111111
+STANDARD DEVIATION FOR: home_comfort_2 : 5.2141348452739
+MEAN WEIGHT FOR: home_comfort_2 : 1.2
+STANDARD DEVIATION FOR: small_appliances_home_oven_and_coffee : 5.7758068033436
+MEAN WEIGHT FOR: small_appliances_home_oven_and_coffee : 2.3870967741935
+STANDARD DEVIATION FOR: cds_dvds_musicals : 0.0
+MEAN WEIGHT FOR: cds_dvds_musicals : 2.0
+STANDARD DEVIATION FOR: dvds_blu_ray : 3.8558319921361
+MEAN WEIGHT FOR: dvds_blu_ray : 1.4166666666667
+STANDARD DEVIATION FOR: flowers : 4.40220798092
+MEAN WEIGHT FOR: flowers : 1.2142857142857
+STANDARD DEVIATION FOR: arts_and_craftmanship : 4.6752000849004
+MEAN WEIGHT FOR: arts_and_craftmanship : 3.0
+STANDARD DEVIATION FOR: diapers_and_hygiene : 4.5570314037814
+MEAN WEIGHT FOR: diapers_and_hygiene : 2.1666666666667
+STANDARD DEVIATION FOR: fashion_childrens_clothes : 4.3368276052643
+MEAN WEIGHT FOR: fashion_childrens_clothes : 3.2
+STANDARD DEVIATION FOR: security_and_services : 4.1992501910575
+MEAN WEIGHT FOR: security_and_services : 2.5
+STANDARD DEVIATION FOR: pc_gaming : 4.1068897582343
+MEAN WEIGHT FOR: pc_gaming : 4.3333333333333
+STANDARD DEVIATION FOR: portable_kitchen_and_food_preparers : 5.1482441750752
+MEAN WEIGHT FOR: portable_kitchen_and_food_preparers : 2.1
+FRAGILE ITEMS: 1058
+COMPRESSIBLE ITEMS: 328
+SPECIAL ITEMS: 0
+ALL WEIGHT MEASUREMENTS IN KILOGRAMS, VOLUME MEASUREMENTS IN CUBIC CENTILITERS
+
